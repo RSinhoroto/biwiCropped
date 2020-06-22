@@ -1,3 +1,4 @@
+import numpy as np
 from keras.callbacks import *
 
 class CyclicLR(Callback):
